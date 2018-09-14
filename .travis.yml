@@ -1,5 +1,5 @@
 script:
-  - bash <(curl -s https://runtimeverification.com/toolkit/docker/bash) nightly-2018-09-12
+  - bash <(curl -s https://runtimeverification.com/toolkit/docker/bash) nightly-2018-09-14
 
 #==============================================================================
 # This will download rv-toolkit docker image with tag "nightly" and run `rv.sh` file.
